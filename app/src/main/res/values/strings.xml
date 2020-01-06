@@ -1,0 +1,11 @@
+<resources>
+    <string name="strApp_name">Pokemon TCG</string>
+    <string name="strInputSearchText"></string>
+    <string name="strSearchTitle">Search Pokemon by Name:</string>
+    <string name="strSearchButtonTitle">Search</string>
+    <string name="strNoResultText">No Such Pokemon Found!</string>
+    <string name="strPokemonDetailsName">Pokemon Name</string>
+    <string name="strPokemonDetailsNumber">Pokemon Number</string>
+    <string name="strPokemonDetailsType">Pokemon Type</string>
+    <string name="strBackFromDetails">Return</string>
+</resources>
